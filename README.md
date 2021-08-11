@@ -198,16 +198,20 @@ docker run -d \
 
 本项目是[在未来流浪：基于WeChaty, PaddleHub与彩云小梦的科幻机器人](https://aistudio.baidu.com/aistudio/projectdetail/1896705)的升级版本。基于上个版本，进行了全面的代码重构并新增“行动”功能，新增后端网站记录，完善图片迁移。本项目仅包含微信机器人部分。
 
-**（等传github后更新这里）**
+
 [AI Studio地址](https://aistudio.baidu.com/aistudio/projectdetail/2274223?forkThirdPart=1)
 
 
 本项目由速冻乱码搅拌机开发。
 
 设计/ [me](https://github.com/sunyuqian1997)  
-Chatbot开发/ [扣扣](https://github.com/chelys-cheng) ， [me](https://github.com/sunyuqian1997) 
+
+Chatbot开发/ [扣扣](https://github.com/chelys-cheng) , [me](https://github.com/sunyuqian1997) 
+
 后端/[扣扣](https://github.com/chelys-cheng)
+
 前端/[Shing](https://github.com/shing19)，[Ray](https://github.com/Ray-lei-blog)
+
 协助/[草莓](https://github.com/Fairywang9)，[koi](https://github.com/YingXu-Koi)
 
 文本续写AI/彩云科技
