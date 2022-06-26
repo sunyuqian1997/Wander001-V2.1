@@ -1,5 +1,12 @@
 # Wander[001] - 未来流浪者 V2.1
 
+目前机器人微信好友已加满，因此无法添加新好友
+
+若想体验请加入discord，体验英文版：https://discord.gg/3njPKQJ4V4
+
+项目官网：[www.wander001.com ](https://www.wander001.com/)
+
+
 ## 项目简介
 ![](https://ai-studio-static-online.cdn.bcebos.com/2e326e69cda648f494da2493e45e0422ad073ddb8d644b7482dd5a1fa753b93e)
 
